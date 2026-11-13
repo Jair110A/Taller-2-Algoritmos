@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+"Ingrese la primera Nota (de 1 a 5):  "
+5
+1
+5
+nota1
+4
+1
+39
+"Ingrese la segunda Nota (de 1 a 5):  "
+5
+1
+5
+nota2
+4
+1
+38
+"Ingrese la Tercera Nota (de 1 a 5): "
+5
+1
+5
+nota3
+6
+1
+4
+prom
+26
+(nota1 + nota2 + nota3) /3
+4
+1
+45
+"El promedio de las Tres notas es de: ", prom
+1

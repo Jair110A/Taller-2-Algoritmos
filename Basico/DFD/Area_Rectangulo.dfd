@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+"Ingrese la Base del rectangulo en cm: "
+5
+1
+4
+base
+4
+1
+42
+"Ingrese la Altura del rectangulo en cm: "
+5
+1
+6
+altura
+6
+1
+4
+area
+11
+base*altura
+4
+1
+46
+"El area del rectangulo es de: ", area, "cm^2"
+1
