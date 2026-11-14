@@ -1,4 +1,8 @@
+Estudiante: Jair Nicolás Alarcón Mora 
+Ficha:3601847
+
 ##Descripción:
+
 Desarrollo de los 10 ejercicios básicos e intermedios:
 
 ##Ejercicios
