@@ -4,11 +4,11 @@ Ficha:
 
 3601847
 
-##Descripción:
+#Descripción:
 
 Desarrollo de los 10 ejercicios básicos e intermedios:
 
-##Ejercicios
+#Ejercicios
 01. [Cálculo de Promedio](https://github.com/Jair110A/Taller-2-Algoritmos/tree/main/Basico/01.%20C%C3%A1lculo%20de%20Promedio)
 02. [Área de Rectángulo](https://github.com/Jair110A/Taller-2-Algoritmos/tree/main/Basico/02.%20%C3%81rea%20de%20Rect%C3%A1ngulo)
 03. [Signo Numérico](https://github.com/Jair110A/Taller-2-Algoritmos/tree/main/Basico/03.%20Signo%20Num%C3%A9rico)
